@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Vortex Solutions Live Deployment"
+git branch -M main
+git remote add origin https://github.com/vortexsolutionrpr-crypto/vortex-solutions.git
+git push -u origin main
